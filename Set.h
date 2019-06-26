@@ -1,13 +1,9 @@
 /***************************************
  * Robert Moya
- * lab8
  * file: set.h
  * Time complexity: O(n), log(n), 
- * Problem: The problem in this lab was to create out very own set.h and to make 3 set 
+ * Problem: The problem was to create out very own set.h and to make 3 set 
  * class to work. We had to make a find, operator, insert, and an erase function.
- * Sketch of solution: The book had most of the solutions and how to configure the ones 
- * I did not have. Proffessor Z gave us ideas on how to solve the problem and gave one sample
- * to the code. 
  * 100% 
  * ********************/
 
