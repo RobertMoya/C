@@ -1,6 +1,5 @@
 /***********************
  * Robert Moya
- * 10/9/17
  * time complexity: O(n)
  * the problem consisted of building an array and passing it through as a poiinter to functions such as average and variance and inputing user input as the values for the array. 
  * sketch of solution: I built an array and set its max to 100 and then ran values from the keyboard to construct my array and how many values were inputed to get the size and then pass it through the functions and return the values and cout the values.
