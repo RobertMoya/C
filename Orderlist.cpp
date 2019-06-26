@@ -1,7 +1,5 @@
 /***************************************
  * Robert Moya
- * Homework3
- * 11/15/17
  * File Order.cpp
  * Time complexity: O(n) for ordered functions and also O(nlog(n)) for the unordered functions. 
  * Problem: The problem in this homework was to make for different functions
